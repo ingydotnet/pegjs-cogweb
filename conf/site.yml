@@ -1,0 +1,11 @@
+cname: pegjs.cogwebs.com
+
+route:
+- path: /
+  html: main.html
+- path: /development/
+  html: development.html
+- path: /documentation/
+  html: documentation.html
+- path: /online/
+  html: online.html
